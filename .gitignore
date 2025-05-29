@@ -7,3 +7,4 @@ dist/
 node_modules/
 *.pyc
 .cache/
+*.tmp
